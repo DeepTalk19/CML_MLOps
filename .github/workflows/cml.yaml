@@ -1,4 +1,4 @@
-name: anamika-cml-workflow-example
+name: anamika-cml-example
 on: [push]
 jobs:
   run:
