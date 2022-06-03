@@ -1,5 +1,5 @@
 name: anamika-cml-workflow-example
-on: [push]
+on: [pull]
 jobs:
   run:
     runs-on: ubuntu-latest
