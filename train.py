@@ -1,1 +1,1 @@
-print("training completed..."
+print("training completed...")
