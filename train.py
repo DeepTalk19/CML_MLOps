@@ -1,2 +1,2 @@
-print("training in progress")
+print("training...")
 print("training completed...")
